@@ -1,0 +1,23 @@
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Java / Maven
+backend/target/
+backend/.mvn/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+application-local.yml
+
+# OS
+.DS_Store
+Thumbs.db
